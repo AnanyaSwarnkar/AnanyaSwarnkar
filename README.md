@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananya Swarnkar</h1>
 <h3 align="center">An Avid Learner and a Passionate Programmer.</h3>
-- 🎓  A CSE Sophomore
+-  🎓  **A CSE Sophomore**
 
 - 👩‍💻 A Competitive Programmer and a Frontend Developer
 
