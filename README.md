@@ -14,6 +14,7 @@
 - ⚡ Fun fact **I love to Eat**
 
 <h3 align="left">Connect with me:</h3>
+(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4789906-Hi")
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ananya-swarnkar-516281221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananya-swarnkar-516281221/" height="30" width="40" /></a>
 <a href="https://instagram.com/ananya_swarnkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ananya_swarnkar" height="30" width="40" /></a>
