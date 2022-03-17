@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya Swarnkar</h1>
 <h3 align="center">CS undergrad || Coder || Developer || Designer</h3>
                                                       
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4789906-Hi">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/media/6a69cc1cf11e3a2f5f3b7a95a8aef4ca.gif">
                                                       
 - 🎓  A CSE Sophomore                                                      
                                                       
