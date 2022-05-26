@@ -9,12 +9,10 @@
 
 - 🌱 I’m currently learning Java
 
-- 💬 Ask me about **C++,HTML,CSS and Bootstrap**
+- 💬 Ask me about **C, C++, HTML, CSS and JavaScript**
 
 - 📫 You can reach me at **ananyaswarnkar1902@gmail.com**
-
-- ⚡ Fun fact **I love to Eat**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ananya-swarnkar-516281221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananya-swarnkar-516281221/" height="30" width="40" /></a>
