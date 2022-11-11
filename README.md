@@ -8,7 +8,7 @@
   >
 </p>
 
-- 🎓  A CSE Sophomore                                                      
+- 🎓  A CSE student                                                      
                                                       
 - 👩‍💻 A Competitive Programmer and a Frontend Developer
 
