@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya Swarnkar</h1>
-<h3 align="center">CS undergrad || Coder || Developer || Designer</h3>
+<h3 align="center">CS Undergrad || Coder || Developer || Designer</h3>
                                                       
  <p align="center">
   <img 
