@@ -12,7 +12,7 @@
                                                       
 - 👩‍💻 A Competitive Programmer and a Frontend Developer
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React
 
 - 💬 Ask me about **C, C++, HTML, CSS and JavaScript**
 
