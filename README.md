@@ -18,7 +18,7 @@
 
 - 📫 You can reach me at **ananyaswarnkar1902@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=ananyaswarnkar&theme=radical)
+![](https://komarev.com/ghpvc/?username=ananyaswarnkar&color=ff69b4)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ananyaswarnkar&theme=radical)](https://github.com/ananyaswarnkar/github-profile-trophy)
 
