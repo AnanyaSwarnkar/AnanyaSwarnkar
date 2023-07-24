@@ -20,7 +20,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ananyaswarnkar&color=DC143C)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ananyaswarnkar&theme=transparent)](https://github.com/ananyaswarnkar/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ananyaswarnkar&theme=algolia)](https://github.com/ananyaswarnkar/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
