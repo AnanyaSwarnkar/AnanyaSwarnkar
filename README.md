@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning React
 
-- 💬 Ask me about **Java, HTML, CSS and JavaScript**
+- 💬 Ask me about **Java, Python, HTML, CSS and JavaScript**
 
 - 📫 You can reach me at **ananyaswarnkar1902@gmail.com**
 
