@@ -10,7 +10,7 @@
 
 - 🎓  A CSE student                                                      
                                                       
-- 👩‍💻 A Competitive Programmer and a Frontend Developer
+- 👩‍💻 A Competitive Programmer and a Full Stack Developer
 
 - 🌱 I’m currently learning React
 
