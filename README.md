@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ananya Swarnkar</h1>
-<h3 align="center">CS Undergrad || Coder || Developer || Designer</h3>
 <h3 align="center">I love deploying technology to solve real world problems.
                                                       
  <p align="center">
