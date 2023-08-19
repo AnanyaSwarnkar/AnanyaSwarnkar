@@ -29,6 +29,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaswarnkar&layout=compact&langs_count=10&card_width=350&theme=algolia)](https://github.com/ananyaswarnkar/github-readme-stats) 
 
-![github-contribution-grid-snake](https://github.com/AnanyaSwarnkar/AnanyaSwarnkar/assets/97191169/babb1b42-4610-40eb-961e-e3271c1a7620)
-
 [![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaswarnkar&rank_icon=github&theme=algolia)](https://github.com/ananyaswarnkar/github-readme-stats)
+
+![github-contribution-grid-snake](https://github.com/AnanyaSwarnkar/AnanyaSwarnkar/assets/97191169/babb1b42-4610-40eb-961e-e3271c1a7620)
