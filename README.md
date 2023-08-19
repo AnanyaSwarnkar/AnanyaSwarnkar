@@ -4,7 +4,8 @@
  <p align="center">
   <img 
     width="400"
-    src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/media/6a69cc1cf11e3a2f5f3b7a95a8aef4ca.gif"
+    src="![456](https://github.com/AnanyaSwarnkar/AnanyaSwarnkar/assets/97191169/532671ed-5d70-4f53-b09b-29500a991d39)"
+
   >
 </p>.
 
