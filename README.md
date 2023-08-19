@@ -5,7 +5,7 @@
                                                       
 - 👩‍💻 A Competitive Programmer and a Full Stack Developer
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working on ML Projects
 
 - 💬 Ask me about **Java, Python, HTML, CSS and JavaScript**
 
