@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya Swarnkar</h1>
 <h3 align="center">I love deploying technology to solve real world problems.<h3>
                                                       
- <p align="center">
-  <img 
-    width="400"
-    ![456](https://github.com/AnanyaSwarnkar/AnanyaSwarnkar/assets/97191169/bf03ec04-d29b-40c4-8969-9b5f988b0cb3)
-  >
-</p>
+![456](https://github.com/AnanyaSwarnkar/AnanyaSwarnkar/assets/97191169/bf03ec04-d29b-40c4-8969-9b5f988b0cb3)
 
 - 🎓  A CSE student                                                      
                                                       
