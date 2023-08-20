@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ananya Swarnkar</h1>
 <h3 align="center">I love deploying technology to solve real world problems.<h3>
+
+<p align="center">
+<img
+  width ="400"
                                                       
 ![123](https://github.com/AnanyaSwarnkar/AnanyaSwarnkar/assets/97191169/91d11ce6-b9c8-40dc-bd87-7477e31cbf5e)
+>
+</p>
                                                       
 - 👩‍💻 A Competitive Programmer and a Full Stack Developer
 
