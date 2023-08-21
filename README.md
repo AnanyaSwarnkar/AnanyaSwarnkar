@@ -3,7 +3,7 @@
 
 <p align="center">
 <img
-  width ="400"
+  width ="100"
                                                       
 ![123](https://github.com/AnanyaSwarnkar/AnanyaSwarnkar/assets/97191169/91d11ce6-b9c8-40dc-bd87-7477e31cbf5e)
 >
