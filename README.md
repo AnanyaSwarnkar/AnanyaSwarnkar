@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently working on ML Projects
 
-- 💬 Ask me about **Java, Python, HTML, CSS and JavaScript**
+- 💬 Ask me about **Java, Python, ReactJs, HTML, CSS and JavaScript**
 
 - 📫 You can reach me at **ananyaswarnkar1902@gmail.com**
 
