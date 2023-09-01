@@ -9,7 +9,7 @@
 >
 </p>
                                                       
-- 👩‍💻 A Competitive Programmer and a Full Stack Developer
+- 👩‍💻 A Competitive Programmer and a Full Stack Developer.
 
 - 🌱 I’m currently working on ML Projects
 
