@@ -11,7 +11,7 @@
                                                       
 - 👩‍💻 A Competitive Programmer and a Full Stack Developer.
 
-- 🌱 I’m currently working on ML Projects.
+- 🌱 I’m currently working on ML Projects .
 
 - 💬 Ask me about **Java, Python, HTML, CSS and JavaScript**
 
