@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananya Swarnkar</h1>
+<h1 align="center">Hi 👋, I am Ananya Swarnkar</h1>
 <h3 align="center">I love deploying technology to solve real world problems<h3>
 
 <p align="center">
